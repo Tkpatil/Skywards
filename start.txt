@@ -1,0 +1,114 @@
+WEBSITE MENU / TABS STRUCTURE
+Skyward Urban Solution LLP
+🔹 PRIMARY TABS (Top Menu – MUST HAVE)
+1️⃣ Home
+
+Purpose: First impression + lead generation
+Includes:
+
+Intro about Skyward Urban Solution LLP
+
+What we do (short)
+
+Key services
+
+Why Skyward
+
+Call to Action (Consult / WhatsApp)
+
+2️⃣ About Us
+
+Purpose: Trust & credibility
+Includes:
+
+Company introduction
+
+Approach & philosophy
+
+Who we work with
+
+Disclaimer (short)
+
+3️⃣ Services
+
+Purpose: Explain what you offer (generic, all TDR types)
+Includes:
+
+TDR Advisory
+
+Development Potential & Feasibility
+
+Documentation & Compliance Support
+
+Authority Process & Coordination Support
+
+Regulatory & Planning Advisory
+
+👉 Sub-tabs (optional):
+
+TDR Advisory
+
+Feasibility Study
+
+Documentation Support
+
+4️⃣ TDR Expertise
+
+Purpose: Education + authority (VERY IMPORTANT)
+Includes:
+
+What is TDR
+
+Types of TDR we advise on
+
+Generic process overview
+
+Common questions (FAQ)
+
+👉 This tab helps clients understand, not just contact.
+
+5️⃣ Our Process
+
+Purpose: Show structured way of working
+Includes:
+
+Step-by-step generic TDR process
+
+Compliance-first approach
+
+Timeline overview
+
+(Use content from the Word file I gave)
+
+6️⃣ Projects / Experience
+
+Purpose: Credibility without legal risk
+Includes:
+
+Types of assignments handled
+
+Nature of work (no CTS, no names)
+
+Sectors covered
+
+7️⃣ Insights
+
+Purpose: SEO + authority (can be added later)
+Includes:
+
+Articles on TDR basics
+
+Regulation updates
+
+Planning & compliance explainers
+
+8️⃣ Contact
+
+Purpose: Lead capture
+Includes:
+
+Address (Mulund)
+
+Phone / WhatsApp
+
+Email
